@@ -6,8 +6,9 @@ body {font-family:  "freight-text-pro";}
     width: 300%; position: absolute; left:0; top:0; display: block; overflow: hidden
   }
   .imageSlider {
-    ul {margin:0; padding:0; list-style: none}
+    ul {margin:0; padding:0; list-style: none;}
     li {margin:0; padding:0; float: left; display: block; }
+ 
   }
  
   .carouselText {position: absolute; z-index: 10; font-size: 100px; color:#ffffff; font-weight: 200; text-align: center; width: 100%; font-size:32px; margin-top: 200px}
